@@ -44,13 +44,11 @@ Curioso por sistemas bem organizados e código limpo.
 ### Redes sociais
 ---
 <div align="left">
- <a href="https://www.linkedin.com/in/mauricioe-rosa" target="_blank">
+ <a href="https://www.linkedin.com/in/mauricioe-rosa" target="_blank" rel="noreferrer">
   <img src="https://icongr.am/devicon/linkedin-original.svg?size=128&color=currentColor"
        width="52"
        height="40"
        alt="LinkedIn" />
-</a>
-
- 
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
+</a> 
+  
 </div>
