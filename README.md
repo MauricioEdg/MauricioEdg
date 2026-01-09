@@ -4,14 +4,12 @@ Back-end em formação • Java ☕ • MySQL 🗄️
 Curioso por sistemas bem organizados e código limpo.
 
 
-
 ### 👨‍💻 Um pouco sobre mim
 ---
 - Em transição para desenvolvimento back-end
 - Estudando **Java** e **bancos de dados**
 - Gosto de entender **como as coisas funcionam por trás**
 - Atualmente cursando **Engenharia de Software**
-
 
 
 ### 🛠️ Tecnologias que venho usando
@@ -29,7 +27,6 @@ Curioso por sistemas bem organizados e código limpo.
 </div>
 
 
-
 ### 📌 O que você vai encontrar por aqui
 ---
 - Projetos de estudo em **Java**
@@ -38,17 +35,18 @@ Curioso por sistemas bem organizados e código limpo.
 - Repositórios focados em aprendizado
 
 
-### 🚀 Próximos passos
+### 📈 Próximos passos
 ---
 - Aprofundar em **Java Back-end**
 - Melhorar arquitetura dos projetos
 - Criar um sistema mais completo (camadas, boas práticas)
 
----
-
 ### Redes sociais
 ---
 <div align="left">
-  <img src="https://icongr.am/devicon/linkedin-original.svg?size=128&color=currentColor" width="52" height="40" alt="linkedin logo"  />
+  <a href="www.linkedin.com/in/mauricioe-rosa">
+       <img src="https://icongr.am/devicon/linkedin-original.svg?size=128&color=currentColor" width="52" height="40" alt="linkedin logo"  />    
+  </a>
+ 
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
 </div>
