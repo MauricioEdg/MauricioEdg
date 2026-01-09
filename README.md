@@ -7,12 +7,13 @@ Curioso por sistemas bem organizados e código limpo.
 ### 👨‍💻 Um pouco sobre mim
 ---
 - Em transição para desenvolvimento back-end
-- Estudando **Java** e **bancos de dados**
-- Gosto de entender **como as coisas funcionam por trás**
-- Atualmente cursando **Engenharia de Software**
+- Estudando Java e bancos de dados
+- Desenvolvimento de funcionalidades básicas, correções e consultas em sistemas de estudo
+- Interesse em código limpo, organização em camadas e boas práticas
+- Atualmente cursando Engenharia de Software
 
 
-### 🛠️ Tecnologias que venho usando
+### 🛠️ Tecnologias utilizadas em projetos de estudo e prática.
 ---
 <div>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="35" alt="javascript logo"  />
@@ -30,16 +31,17 @@ Curioso por sistemas bem organizados e código limpo.
 ### 📌 O que você vai encontrar por aqui
 ---
 - Projetos de estudo em **Java**
-- Sistemas simples com **CRUD**
+- Projetos de estudo envolvendo operações CRUD e lógica de negócio
 - Experimentos com banco de dados
 - Repositórios focados em aprendizado
+- Sempre aberto a oportunidades para aprender e contribuir em projetos reais.
 
 
 ### 📈 Próximos passos
 ---
 - Aprofundar em **Java Back-end**
 - Melhorar arquitetura dos projetos
-- Criar um sistema mais completo (camadas, boas práticas)
+- Criar sistemas aplicando conceitos como organização em camadas, boas práticas e clareza de código
 
 ### Redes sociais
 ---
