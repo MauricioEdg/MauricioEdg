@@ -1,4 +1,4 @@
-# 👋 Opa! Eu sou o Maurício
+# 👋 Ola! Eu sou o Maurício
 
 Back-end em formação • Java ☕ • MySQL 🗄️  
 Curioso por sistemas bem organizados e código limpo.
