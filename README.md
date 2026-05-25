@@ -1,13 +1,13 @@
-# 👋 Ola! Eu sou o Maurício
+#  Maurício - Desenvolvedor back-end em construção
 
-Back-end em formação • Java ☕ • MySQL 🗄️  
-Curioso por sistemas bem organizados e código limpo.
+Java • Spring Boot • MySQL • Cloud Fundamentals
+Curioso por sistemas bem organizados, seguros e com código limpo.
 
 
 ### 👨‍💻 Um pouco sobre mim
 ---
 - Em transição para desenvolvimento back-end
-- Estudando Java e bancos de dados
+- Estudando Java, bancos de dados, docker e Cloud Fundamentals (Google Cloud)
 - Desenvolvimento de funcionalidades básicas, correções e consultas em sistemas de estudo
 - Interesse em código limpo, organização em camadas e boas práticas
 - Atualmente cursando Engenharia de Software
